@@ -1,3 +1,10 @@
+
+// This project predicts house prices based on machine learning. 
+// The file train1.txt is a training matrix which provides attributes for the program 
+// learn the weights of. Then uses these weights to calculate house prices based on attributes
+// in the given test file.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
